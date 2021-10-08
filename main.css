@@ -1,0 +1,49 @@
+html, body, h1, h2, h3 {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body {
+    background: url(Images/double-bubble-outline.png) repeat;
+}
+h1 {
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration-line: underline; 
+    padding: 10px 20px 0px 10px;
+}
+.content {
+    padding: 10px;
+    height: 375px;
+    width: 300px;
+    border: 2px solid #000000;
+    margin: 100px auto;
+    border-radius: 10px;
+    background: url(Images/oriental.png) repeat;
+}
+.firstname {
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 20px;
+    padding: 50px 0 15px 0;
+}
+.lastname {
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 20px;
+    padding: 15px 0 15px 0;
+}
+.email {
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 20px;
+    padding: 15px 0 15px 0;
+}
+.submit {
+    text-align: center;
+    font-family: 'Raleway', Arial, sans-serif;
+    font-size: 20px;
+    padding: 30px 0 15px 0;
+}
